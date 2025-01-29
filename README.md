@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/tinal-laksika/)  
 [![GitHub](https://img.shields.io/badge/GitHub-tinal28-lightgrey)](https://github.com/tinal28)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](https://tinal.carrd.co/)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue)](https://www.facebook.com/tinal.laksika))
 
 ## 📧 Contact
 📩 Email: [tinallaksika2000@gmail.com](mailto:tinallaksika2000@gmail.com)  
@@ -10,24 +11,18 @@
 
 ## 💼 Experience
 ### Intern Research Engineer, BeyondGenomix AG, Switzerland (2023 – 2025)
-- Conducted telomere analysis using machine learning to enhance infertility diagnostics.
-- Processed and analyzed microscopic data for disease diagnostics.
-- Investigated relationships between microscopic data and physiological parameters.
-- Developed an automated patient report generation system.
-
-### Teaching Assistant, CJ Institute (2020 – 2021)
-- Taught Combined Mathematics, Physics, and Chemistry.
-
+[BeyondGenomix](https://www.beyondgenomix.com/)
+- Telomere analysis using machine learning to enhance infertility diagnostics.
+- Microscopic data processing and analyzing for disease diagnostics.
+- Understanding physiological parameters using microscopic data
 ---
 
 ## 🎓 Education
 ### University of Moratuwa, Sri Lanka (2020 – Present)
-- **B.Sc. Engineering (Hons.) in Biomedical Engineering** (GPA: 3.90/4.0)
-- Specialization: Pattern Recognition, Image Processing, Machine Vision, Bio-signal Processing.
+- **B.Sc. Engineering (Hons.) in Biomedical Engineering** 
 
 ### Royal College, Sri Lanka (2011 – 2019)
-- **GCE Advanced Level - Physical Science Stream** (Island Rank: 28)
-- Subjects: Combined Mathematics, Physics, Chemistry.
+- **GCE Advanced Level - Physical Science Stream**
 
 ---
 
@@ -42,35 +37,27 @@
   - Developed an attention-based ML model using TensorFlow for accurate BP prediction.
 
 ### **Other Research & Development Projects**
-- **Wavelet Optimization for ECG Signal Classification**
+- [**Wavelet Optimization for ECG Signal Classification**](https://github.com/tinal28/A-wavelet-optimization-approach-for-ECG-signal-classification)
   - Used Sherlock-Monro algorithm with Particle Swarm Optimization for wavelet generation.
   - Achieved 99.5% accuracy in ECG abnormality detection using SVM.
 
-- **Brain Hemorrhage Detection**
+- [**Brain Hemorrhage Detection**](https://github.com/tinal28/DEEP-LEARNING-BASED-BRAIN-HAEMORRHAGE-DETECTION-USING-CT-IMAGES)
   - Built a CNN-based model for hemorrhage classification using CT images.
 
-- **Ophthalmic Biomarker Detection**
+- [**Ophthalmic Biomarker Detection**](https://github.com/tinal28/Ophthalmic-Biomarker-Detection)
   - Applied contrastive learning for biomarker classification in OCT images.
 
-- **Modelling and Analysis of Physiological Systems**
+- [**Modelling and Analysis of Physiological Systems**](https://github.com/tinal28/Modelling-and-Analysis-of-Physiological-Systems)
   - Cardiac physiology analysis, compartmental system modeling, and respiratory system simulation.
 
-- **Smart Medibox System**
+- [**Smart Medibox System**](https://github.com/tinal28/medibox)
   - Designed and implemented PCB with microcontroller programming and IoT integration.
 
-- **ECG Monitor**
+- [**ECG Monitor**](https://github.com/tinal28/ECG-Monitor)
   - Developed an instrumentation amplifier-based heart signal acquisition system.
 
-- **Smart IoT Thermometer**
+- [**Smart IoT Thermometer**](https://github.com/tinal28/Thermometer-v2.0)
   - Designed a digital thermometer with IoT capabilities and a user-friendly interface.
-
----
-
-## 🛠 Skills
-- **Programming:** Python, C++, MATLAB, Java, JavaScript, C#
-- **Frameworks:** TensorFlow, PyTorch, Node-RED, Spring Boot
-- **Software:** Altium (PCB Design), SolidWorks (3D Design), Photoshop, After Effects, Proteus, LTSpice, Multisim, Quartus Prime
-- **Other:** Drums, Percussion, Trombone, Guitar
 
 ---
 
