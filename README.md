@@ -1,4 +1,3 @@
-# Tinal Abeygunathilaka
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-green)](https://www.linkedin.com/in/tinal-laksika/)  
 [![GitHub](https://img.shields.io/badge/GitHub-tinal28-lightgrey)](https://github.com/tinal28)  <br />
@@ -8,7 +7,7 @@
 
 ## 👋 About Me
 
-🎓 Final-Year Biomedical Engineering Undergraduate** at the University of Moratuwa, Sri Lanka. Passionate about biosignal processing, computational neuroscience, and medical imaging. I enjoy tackling real-world challenges serve the humanity through innovative solutions and problem solving mindset.  
+Final-Year Biomedical Engineering Undergraduate at the University of Moratuwa, Sri Lanka. Passionate about biosignal processing, computational neuroscience, and medical imaging. I enjoy tackling real-world challenges serve the humanity through innovative solutions and problem solving mindset.  
 
 ---
 
@@ -22,10 +21,10 @@
 ## 🎓 Education
 
 ### 🎓 University of Moratuwa, Sri Lanka *(2020 – Present)*  
-- **B.Sc. Engineering (Hons.) in Biomedical Engineering**  
+- *B.Sc. Engineering (Hons.) in Biomedical Engineering*
 
 ### 🏫 Royal College, Sri Lanka *(2011 – 2019)*  
-- **GCE Advanced Level - Physical Science Stream**
+- *GCE Advanced Level - Physical Science Stream*
 
 ---
 
@@ -39,7 +38,7 @@
 
 🔹 **Non-invasive Arterial Blood Pressure Prediction Using PPG**
   - Processed PPG signals using **empirical mode decomposition, wavelet transforms, and STFT**.
-  - Developed an **attention-based ML model** using TensorFlow for **accurate BP prediction**.
+  - Developed an **attention-based ML model** using TensorFlow for accurate BP prediction.
 
 ### **🔬 Research & Development Projects**
 
@@ -75,16 +74,6 @@
 - Understanding **physiological parameters** using microscopic data.
 
 ---
-
-## 🏆 Awards & Scholarships
-
-🏅 **Dean’s List (University of Moratuwa)** - Semesters: **01, 02, 04, 06, 07**  
-🏅 **10th Place - IEEE SPS Video & Image Processing Cup (2023)**  
-🏅 **Top 10 - Spark Challenge (2023)**  
-🏅 **Best Performing Member - AIESEC Colombo South (2022)**  
-🏅 **Mahapola Higher Education Scholarship (2020)** - Ranked **#28 out of 34,311** students in GCE A/L  
-🏅 **Winner - Enigma & Revolution Science Competitions (2018)**  
-🏅 **National Finalist - Mathematics & Science Olympiad (2012, 2011)**  
 
 ---
 
