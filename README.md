@@ -58,8 +58,7 @@
 ### Intern Research Engineer, [BeyondGenomix](https://www.beyondgenomix.com/) AG, Switzerland (2023 – 2025)
 - Telomere analysis using machine learning to enhance infertility diagnostics.
 - Microscopic data processing and analyzing for disease diagnostics.
-- Microscopic data processing and analyzing for disease diagnostics
-- Understanding physiological parameters using microscopic data
+- Understanding physiological parameters using microscopic data.
 ---
 
 
