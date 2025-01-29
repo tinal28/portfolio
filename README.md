@@ -85,11 +85,3 @@
 
 ---
 
-## 📜 References
-### **Dr. Ranga Rodrigo**
-- **Senior Lecturer, Department of Electronic & Telecommunication Engineering, University of Moratuwa**
-- Email: [ranga@uom.lk](mailto:ranga@uom.lk)
-
-### **Dr. Myriam Merarchi**
-- **CEO, Beyond Genomix (Pvt) Ltd, Switzerland**
-- Email: [myriam.merarchi@beyondgenomix.com](mailto:myriam.merarchi@beyondgenomix.com)
