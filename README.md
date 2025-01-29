@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/tinal-laksika/)  
 [![GitHub](https://img.shields.io/badge/GitHub-tinal28-lightgrey)](https://github.com/tinal28)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](https://tinal.carrd.co/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](https://tinal.carrd.co/) <br />
   [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue)](https://www.facebook.com/tinal.laksika)
 
 ## 📧 Contact
