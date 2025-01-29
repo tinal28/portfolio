@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-🎓 **Final-Year Biomedical Engineering Undergraduate** at the **University of Moratuwa, Sri Lanka**. Passionate about **biosignal processing, computational neuroscience, and medical imaging**. I enjoy tackling real-world biomedical challenges with AI/ML, signal analysis, and system modeling.
+🎓 Final-Year Biomedical Engineering Undergraduate** at the University of Moratuwa, Sri Lanka. Passionate about biosignal processing, computational neuroscience, and medical imaging. I enjoy tackling real-world challenges serve the humanity through innovative solutions and problem solving mindset.  
 
 ---
 
