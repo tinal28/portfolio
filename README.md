@@ -1,8 +1,8 @@
 # Tinal Abeygunathilaka
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/tinal-laksika/)  
-[![GitHub](https://img.shields.io/badge/GitHub-tinal28-lightgrey)](https://github.com/tinal28)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](https://tinal.carrd.co/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-green)](https://www.linkedin.com/in/tinal-laksika/)  
+[![GitHub](https://img.shields.io/badge/GitHub-tinal28-lightgrey)](https://github.com/tinal28)  <br />
+[![Facebook](https://img.shields.io/badge/facebook-Profile-blue)](https://www.facebook.com/tinal.laksika) 
 
 ---
 
