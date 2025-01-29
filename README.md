@@ -3,18 +3,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/tinal-laksika/)  
 [![GitHub](https://img.shields.io/badge/GitHub-tinal28-lightgrey)](https://github.com/tinal28)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](https://tinal.carrd.co/) <br />
-  [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue)](https://www.facebook.com/tinal.laksika)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue)](https://www.facebook.com/tinal.laksika)
 
 ## 📧 Contact
 📩 Email: [tinallaksika2000@gmail.com](mailto:tinallaksika2000@gmail.com)  
 📱 Phone: +94 77 173 8829
 
-## 💼 Experience
-### Intern Research Engineer, BeyondGenomix AG, Switzerland (2023 – 2025)
-[BeyondGenomix](https://www.beyondgenomix.com/)
-- Telomere analysis using machine learning to enhance infertility diagnostics.
-- Microscopic data processing and analyzing for disease diagnostics.
-- Understanding physiological parameters using microscopic data
 ---
 
 ## 🎓 Education
@@ -60,6 +54,13 @@
   - Designed a digital thermometer with IoT capabilities and a user-friendly interface.
 
 ---
+## 💼 Experience
+### Intern Research Engineer, [BeyondGenomix](https://www.beyondgenomix.com/) AG, Switzerland (2023 – 2025)
+- Telomere analysis using machine learning to enhance infertility diagnostics.
+- Microscopic data processing and analyzing for disease diagnostics.
+- Understanding physiological parameters using microscopic data
+---
+
 
 ## 🏆 Awards & Scholarships
 - **Dean’s List (University of Moratuwa)** - Semesters: 01, 02, 04, 06, 07
